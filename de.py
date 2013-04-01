@@ -1,0 +1,1 @@
+printf "deneme"
