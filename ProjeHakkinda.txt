@@ -1,5 +1,5 @@
-
 Turan linux Projesi gömülü sistemlere yönelik olan bir projedir.
-Proje Geliştiricileri: Mehmet Nuri Öztürk (İnönü Üniversitesi Fizik Bölümü), Gizem Uysal (Trakya Üniversitesi Bilgisayar Mühendisliği Bölümü).
+Proje Geliştiricileri: Mehmet Nuri Öztürk (İnönü Üniversitesi Fizik Bölümü), 
+Gizem Uysal (Trakya Üniversitesi Bilgisayar Mühendisliği Bölümü).
 Proje kesinlikle hiç bir dağıtımın çatallaması değildir.
  
